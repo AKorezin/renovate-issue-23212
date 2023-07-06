@@ -3,7 +3,11 @@
     "packageRules": [
         {
             "matchPackageNames": ["php"],
-            "allowedVersions": "<=8.2"
+            "allowedVersions": "=8.2"
+        },
+        {
+            "matchPackageNames": ["node"],
+            "allowedVersions": "=18"
         }
     ]
 }
