@@ -20,7 +20,7 @@ FROM node:18.16.0
 ```
 
 ## Actual changes
-!3
+https://gitlab.com/AKorezin/renovate-issue-23212/-/merge_requests/3
 ```diff
 --- a/Dockerfile
 +++ b/Dockerfile
@@ -32,4 +32,4 @@ FROM node:18.16.0
 ```
 
 ## Issue dashboard
-#2
+https://gitlab.com/AKorezin/renovate-issue-23212/-/issues/2
